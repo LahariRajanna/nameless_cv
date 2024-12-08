@@ -1,11 +1,4 @@
-# Fashion-MNIST
-
-[![GitHub stars](https://img.shields.io/github/stars/zalandoresearch/fashion-mnist.svg?style=flat&label=Star)](https://github.com/zalandoresearch/fashion-mnist/)
-[![Gitter](https://badges.gitter.im/zalandoresearch/fashion-mnist.svg)](https://gitter.im/fashion-mnist/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-[![Readme-EN](https://img.shields.io/badge/README-English-green.svg)](README.md)
-[![Readme-JA](https://img.shields.io/badge/README-日本語-green.svg)](README.ja.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Year-In-Review](https://img.shields.io/badge/%F0%9F%8E%82-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93-orange.svg)](https://hanxiao.github.io/2018/09/28/Fashion-MNIST-Year-In-Review/)
+# Team - NAMELESS - 2347233 and 2347263
 
 <details><summary>目录</summary><p>
 
