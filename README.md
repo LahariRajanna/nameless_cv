@@ -176,5 +176,4 @@ Biblatex entry:
 }
 ```
 
-[Who is citing Fashion-MNIST?](https://scholar.google.com/scholar?scisbd=2&q=%22fashion-mnist%22&hl=en&as_sdt=0,5) 
 
