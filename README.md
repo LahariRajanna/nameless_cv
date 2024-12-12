@@ -32,10 +32,6 @@ Here's an example of how the data looks (*each class takes three-rows*):
 | `t10k-images-idx3-ubyte.gz`  | test set images  | 10,000|4.3 MBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-images-idx3-ubyte.gz)|`bef4ecab320f06d8554ea6380940ec79`|
 | `t10k-labels-idx1-ubyte.gz`  | test set labels  | 10,000| 5.1 KBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-labels-idx1-ubyte.gz)|`bb300cfdad3c16e7a12a480ee83cd310`|
    
-```bash
-git clone git@github.com:zalandoresearch/fashion-mnist.git
-```
-
 ### Labels
 Each training and test example is assigned to one of the following labels:
 
